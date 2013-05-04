@@ -1,6 +1,6 @@
 GrammarNazi Ext
 ==============
-Chrome extension for correcting bad grammar, excess punctuations and misspellings  from live webpages
+A Chrome extension that corrects bad grammar, excess punctuation and spelling mistakes on webpages.
 
 
 
@@ -11,7 +11,7 @@ Chrome extension for correcting bad grammar, excess punctuations and misspelling
 <li> Follow the steps given at http://techdows.com/2010/10/how-to-install-chrome-extensions-manually.html <br/>
 </ul>
 
-##Description for Yahoo Hacku
+##Description for Yahoo HackU
 
 
 hi guyzz!!!dis izz a hack 4 hacku....! . .
