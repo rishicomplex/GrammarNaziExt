@@ -25,6 +25,7 @@ Our project for HackU 2013, IIT Kharagpur.
 <ul>
 <li>Click the GrammarNazi icon on the top-right of Chrome to clean up ugly punctuation and formatting on any webpage. </li>
 <li>Select a block of text, right click, and select "Blitzkrieg" to fix spelling and grammatical errors.</li>
+<li>Words that have been changed appear in red. Hover over words to see their original form.</li>
 </ul>
 
 
