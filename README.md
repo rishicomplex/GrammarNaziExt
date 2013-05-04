@@ -17,7 +17,7 @@ Our project for HackU 2013, IIT Kharagpur.
 
 <ul>
 <li><code>git clone git://github.com/rishicomplex/GrammarNaziExt</code></li>
-<li>Open Google Chrome and type <code>chrome://extensions</code> in the omnibox. Make sure "Developer mode" is checked. Click on "Load unpacked extension", and select the folder in which the clone was made. The extension should appear in the list of extensions. You may have to restart Chrome for the extension to start working.</li>
+<li>Open Google Chrome and type <code>chrome://extensions</code> in the omnibox. Make sure "Developer mode" is checked. Click on "Load unpacked extension", and select the folder named "extension" in the cloned folder. The extension should appear in the list. You may have to restart Chrome for GrammarNazi to start working.</li>
 </ul>
 
 
